@@ -18,7 +18,7 @@ namespace Cats
       
         public AzureService()
         {
-            //Url from Mobile app Service to connect
+            //Url from Mobile app Service to connect...
             string MyAppServiceURL = "http://colluraappcats.azurewebsites.net";
 
             //Create instance of Mobile Service Client
